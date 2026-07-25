@@ -4,10 +4,10 @@
 <h3 align="center">Full Stack Developer • Python Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO">
+  <a href="https://pratap-portfolio-beta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
   </a>
-  <a href="YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/pratap-shourya-singh-b7732828a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:pratapshouryasingh143@gmail.com">
