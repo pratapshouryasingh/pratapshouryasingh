@@ -105,21 +105,19 @@ Become an AI Engineer while building impactful software.
 
 # 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratapshouryasingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratapshouryasingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshouryasingh&layout=donut&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshouryasingh&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<br><br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=pratapshouryasingh&theme=tokyonight&hide_border=true"/>
 
-<br/><br/>
+<br><br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratapshouryasingh&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
 
 <div align="center">
 
