@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Python Developer • AI Engineering Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Backend+Engineering+%7C+Automation;Exploring+AI+Agents+%26+Machine+Learning;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Backend+Engineering+%7C+Automation;Exploring+AI+Agents+%26+Machine+Learning;Always+Learning.+Always+Building." alt="Typing SVG"/>
 
 <br/>
 
@@ -24,6 +24,10 @@
 <img src="https://img.shields.io/github/followers/pratapshouryasingh?label=GitHub&style=for-the-badge"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pratapshouryasingh&label=Profile%20Views&style=for-the-badge&color=00C2FF"/>
+
 </div>
 
 ---
@@ -31,15 +35,15 @@
 # 👨‍💻 About Me
 
 ```text
-🚀 Full Stack Developer passionate about scalable backend systems
+🚀 Full Stack Developer building scalable backend systems & modern web applications
 
-🐍 Python Developer focused on automation & APIs
+🐍 Python Developer focused on automation, APIs & backend engineering
 
-🤖 Exploring AI Engineering, Machine Learning & AI Agents
+🤖 Exploring AI Engineering, Machine Learning, LLMs & AI Agents
 
-⚡ Building modern web applications using React, Node.js & FastAPI
+⚡ Passionate about writing clean, maintainable and production-ready code
 
-📚 Always learning new technologies and improving problem-solving skills
+📚 Continuously learning new technologies and solving real-world problems
 
 🎯 Goal:
 Become an AI Engineer while building impactful software.
@@ -92,7 +96,7 @@ Become an AI Engineer while building impactful software.
 
 ### Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,azure&perline=2"/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,azure,vercel,render&perline=2"/>
 
 </td>
 
@@ -105,9 +109,9 @@ Become an AI Engineer while building impactful software.
 
 # 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratapshouryasingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-one-brown-82.vercel.app/api?username=pratapshouryasingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshouryasingh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-one-brown-82.vercel.app/api/top-langs/?username=pratapshouryasingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
@@ -119,9 +123,21 @@ Become an AI Engineer while building impactful software.
 
 </div>
 
+---
+
 <div align="center">
 
-# Contribution Snake
+# 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=pratapshouryasingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
 
 <picture>
 
@@ -140,7 +156,6 @@ Become an AI Engineer while building impactful software.
 # 🎯 Current Focus
 
 <table>
-
 <tr>
 
 <td>
@@ -150,6 +165,7 @@ Become an AI Engineer while building impactful software.
 - Machine Learning
 - AI Engineering
 - LLM Applications
+- AI Agents
 - FastAPI
 - Cloud Deployment
 
@@ -164,11 +180,11 @@ Become an AI Engineer while building impactful software.
 - AI Powered Tools
 - Python Automation
 - Open Source Projects
+- Scalable Backend Systems
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -191,7 +207,7 @@ I'm always interested in collaborating on:
 
 🚀 Full Stack Development
 
-⚙ Backend Engineering
+⚙️ Backend Engineering
 
 🤖 AI & Machine Learning
 
@@ -203,10 +219,6 @@ I'm always interested in collaborating on:
 <img src="https://img.shields.io/badge/Say%20Hello-pratapshouryasingh143%40gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=pratapshouryasingh&label=Profile%20Views&color=0E75B6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -215,6 +227,6 @@ I'm always interested in collaborating on:
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+### *Code • Learn • Build • Repeat*
 
 </div>
