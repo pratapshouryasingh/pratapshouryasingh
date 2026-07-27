@@ -1,4 +1,4 @@
-<div align="center">
+++++<div align="center">
 
 # 👋 Hi, I'm Pratap Shourya Singh
 
@@ -121,7 +121,7 @@ Become an AI Engineer while building impactful software.
 
 <div align="center">
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <picture>
 
