@@ -158,7 +158,7 @@ Become an AI Engineer while building impactful software.
 <table align="center" width="80%">
 <tr>
 
-<td>
+<td width="200px">
 
 ### 🚀 Learning
 
