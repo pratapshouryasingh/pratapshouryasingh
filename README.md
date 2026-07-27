@@ -155,10 +155,10 @@ Become an AI Engineer while building impactful software.
 
 # 🎯 Current Focus
 
-<table align="center">
+<table align="center" width="80%">
 <tr>
 
-<td align="center" width="50%">
+<td>
 
 ### 🚀 Learning
 
