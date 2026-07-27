@@ -68,7 +68,7 @@ Become an AI Engineer while building impactful software.
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="24%">
 
 ### Frontend
 
@@ -76,7 +76,7 @@ Become an AI Engineer while building impactful software.
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="24%">
 
 ### Backend
 
@@ -84,7 +84,7 @@ Become an AI Engineer while building impactful software.
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="24%">
 
 ### Database
 
@@ -92,7 +92,7 @@ Become an AI Engineer while building impactful software.
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="24%">
 
 ### Tools & Cloud
 
