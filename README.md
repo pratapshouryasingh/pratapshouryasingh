@@ -60,7 +60,7 @@ Become an AI Engineer while building impactful software.
 <table align="center">
 <tr>
 
-<td align="center" width="30%">
+<td align="center" width="20%">
 
 ### Languages
 
