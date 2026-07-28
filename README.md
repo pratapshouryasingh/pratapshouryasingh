@@ -213,6 +213,8 @@ I'm always interested in collaborating on:
 
 🐍 Python Automation
 
+📜 Any new Tech
+
 <br/>
 
 <a href="mailto:pratapshouryasingh143@gmail.com">
