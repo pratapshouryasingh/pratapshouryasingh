@@ -23,7 +23,6 @@
 <a href="https://github.com/pratapshouryasingh">
 <img src="https://img.shields.io/github/followers/pratapshouryasingh?label=GitHub&style=for-the-badge"/>
 </a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=pratapshouryasingh&label=Profile%20Views&style=for-the-badge&color=00C2FF"/>
