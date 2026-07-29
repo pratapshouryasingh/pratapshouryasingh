@@ -1,205 +1,319 @@
-<div align="center">
-
 # 👋 Hi, I'm Pratap Shourya Singh
 
 ### Full Stack Developer • Python Developer • AI Engineering Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Developing+Production+Ready+Applications;Exploring+AI+Engineering+%26+LLMs;Always+Building+Something+New"/>
+> **Note:** Replace placeholder GitHub/Live links in the Featured
+> Projects section with your actual repository URLs.
 
-<br>
+::: {align="center"}
+`<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Backend+Engineering+%7C+Automation;Exploring+AI+Agents+%26+Machine+Learning;Always+Learning.+Always+Building." alt="Typing SVG"/>`{=html}
 
-<a href="https://pratap-portfolio-beta.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+`<br/>`{=html}
 
-<a href="https://www.linkedin.com/in/pratap-shourya-singh-b7732828a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+`<a href="https://pratap-portfolio-beta.vercel.app/">`{=html}
+`<img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<a href="mailto:pratapshouryasingh143@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+`<a href="https://www.linkedin.com/in/pratap-shourya-singh-b7732828a">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<a href="https://github.com/pratapshouryasingh">
-<img src="https://img.shields.io/github/followers/pratapshouryasingh?style=for-the-badge"/>
-</a>
+`<a href="mailto:pratapshouryasingh143@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
 
-<br><br>
+`<a href="https://github.com/pratapshouryasingh">`{=html}
+`<img src="https://img.shields.io/github/followers/pratapshouryasingh?label=GitHub&style=for-the-badge"/>`{=html}
+`</a>`{=html}
 
-<img src="https://komarev.com/ghpvc/?username=pratapshouryasingh&style=for-the-badge&color=00C2FF"/>
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
+`<img src="https://komarev.com/ghpvc/?username=pratapshouryasingh&label=Profile%20Views&style=for-the-badge&color=00C2FF"/>`{=html}
+:::
 
----
+------------------------------------------------------------------------
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🚀 Full Stack MERN Developer
+``` text
+🚀 Full Stack Developer building scalable backend systems & modern web applications
 
-🐍 Python Developer focused on Automation & Backend
+🐍 Python Developer focused on automation, APIs & backend engineering
 
-🤖 Learning AI Engineering, LLMs, RAG & AI Agents
+🤖 Exploring AI Engineering, Machine Learning, LLMs & AI Agents
 
-⚡ Passionate about scalable backend architecture
+⚡ Passionate about writing clean, maintainable and production-ready code
 
-☁️ Interested in Cloud & Distributed Systems
+☁ Interested in Cloud, Distributed Systems & System Design
 
-🎯 Goal: Become an AI Engineer building products used by millions.
+🎯 Goal:
+Build impactful AI-powered software and become an AI Engineer.
+```
 
----
+------------------------------------------------------------------------
 
+::: {align="center"}
 # 🚀 Featured Projects
+:::
 
+```{=html}
+<table>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
 ## 📄 PDF & E-Commerce Toolkit
 
-> SaaS platform for automated PDF conversion and shipping-label processing.
-
-**Highlights**
-
-- ⚡ Automated processing of 1000+ PDF files
-- ☁️ Azure Blob Storage Integration
-- 🐳 Dockerized backend
-- 🔌 20+ REST APIs
-- 📈 Reduced manual work by 60%
+-   🚀 20+ REST APIs
+-   📄 1000+ PDFs Processed
+-   ⚡ 60% Faster Workflow
+-   ☁ Azure Blob Storage
+-   🐳 Dockerized Backend
+-   🔄 WebSocket Support
 
 **Tech**
 
-`React`
-`Node.js`
-`Express`
-`Python`
-`Docker`
-`Azure`
-`WebSockets`
+React • Node.js • Express • Python • Docker • Azure
 
----
+`<br>`{=html}
 
+[![Frontend](https://img.shields.io/badge/Frontend-GitHub-181717?style=for-the-badge&logo=github)](YOUR_FRONTEND_REPO)
+[![Backend](https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github)](YOUR_BACKEND_REPO)
+[![Live](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel)](YOUR_LIVE_LINK)
+
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
 ## 🏦 Banking Backend System
 
-Production-style backend implementing secure banking APIs.
-
-### Features
-
-- JWT Authentication
-- Role Based Authorization
-- Secure Password Hashing
-- Account Management
-- Fund Transfer APIs
-- Transaction History
-- Email Notifications
+-   🔐 JWT Authentication
+-   👤 RBAC
+-   💸 Fund Transfer APIs
+-   📧 Email Notifications
+-   🔒 Secure Password Hashing
+-   🐳 Docker Ready
 
 **Tech**
 
-`Node.js`
-`Express`
-`MongoDB`
-`JWT`
-`Docker`
+Node.js • Express • MongoDB • JWT • Docker
 
----
+`<br>`{=html}
 
-## 🤖 Seller Return Claim Automation
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_BANKING_REPO)
 
-Python automation platform that completely automates seller return claims.
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+## 🤖 Seller Return Automation
 
-### Features
-
-- Selenium Automation
-- Multi-account support
-- Session Recovery
-- Automatic Evidence Upload
-- CSV & JSON Reports
-- Retry Mechanism
+-   Selenium Automation
+-   Multi-account Support
+-   Session Recovery
+-   Retry Logic
+-   CSV & JSON Reporting
+-   Evidence Upload
 
 **Tech**
 
-`Python`
-`Selenium`
-`JSON`
-`CSV`
+Python • Selenium • JSON • CSV
 
----
+`<br>`{=html}
 
-# 🛠 Tech Stack
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_AUTOMATION_REPO)
 
-<p align="center">
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+## 🚀 AutoBizAgent
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,fastapi,django,mongodb,postgres,mysql,docker,git,github,linux,azure,vercel,render,vscode&perline=7"/>
+-   AI Business Strategist
+-   Gemini + Tavily
+-   Mem0 Memory
+-   Interactive Charts
+-   Market Research
+-   AI Reports
 
-</p>
+**Tech**
 
----
+React • Node.js • Gemini • Tavily • Mem0
+
+`<br>`{=html}
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_AUTOBIZ_REPO)
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+# ⚙️ Tech Stack
+:::
+
+```{=html}
+<table align="center">
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td align="center" width="20%">
+```
+### Languages
+
+`<img src="https://skillicons.dev/icons?i=python,js,ts,sql&perline=2"/>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+<td align="center" width="20%">
+```
+### Frontend
+
+`<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=2"/>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+<td align="center" width="20%">
+```
+### Backend
+
+`<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&perline=2"/>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+<td align="center" width="20%">
+```
+### Database
+
+`<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=2"/>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+<td align="center" width="20%">
+```
+### Tools & Cloud
+
+`<img src="https://skillicons.dev/icons?i=docker,git,linux,azure,vercel,render&perline=2"/>`{=html}
+
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+
+------------------------------------------------------------------------
 
 # 📊 GitHub Analytics
 
-<p align="center">
+::: {align="center"}
+`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratapshouryasingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>`{=html}
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratapshouryasingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshouryasingh&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshouryasingh&layout=compact&theme=tokyonight&hide_border=true"/>
+`<br>`{=html}`<br>`{=html}
 
-</p>
+`<img width="70%" src="https://streak-stats.demolab.com?user=pratapshouryasingh&theme=tokyonight&hide_border=true"/>`{=html}
 
-<p align="center">
+`<br>`{=html}`<br>`{=html}
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratapshouryasingh&theme=tokyo-night&hide_border=true"/>
+`<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratapshouryasingh&theme=tokyo-night&hide_border=true"/>`{=html}
+:::
 
-</p>
+------------------------------------------------------------------------
 
----
+::: {align="center"}
+# 🏆 GitHub Trophies
 
-# 🏆 Achievements
+`<img src="https://github-profile-trophy.vercel.app/?username=pratapshouryasingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>`{=html}
+:::
 
-🥉 CodePi Innovation Challenge — 3rd Place
+------------------------------------------------------------------------
 
-🤖 TznzorX National AI Hackathon 2026
+::: {align="center"}
+# 🐍 Contribution Snake
 
-💻 Full Stack Development Intern
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratapshouryasingh/pratapshouryasingh/output/github-contribution-grid-snake-dark.svg"/>`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratapshouryasingh/pratapshouryasingh/output/github-contribution-grid-snake.svg"/>`{=html}
+`<img alt="Snake Animation" src="https://raw.githubusercontent.com/pratapshouryasingh/pratapshouryasingh/output/github-contribution-grid-snake.svg"/>`{=html}
+`</picture>`{=html}
+:::
 
-🚀 Built Production Ready Applications
+------------------------------------------------------------------------
 
----
+# 🎯 Current Focus
 
-# 🎯 Currently Learning
+  🚀 Learning        💻 Building
+  ------------------ --------------------------
+  AI Engineering     Full Stack Applications
+  Machine Learning   Backend APIs
+  AI Agents          AI Powered Tools
+  FastAPI            Python Automation
+  Cloud Deployment   Open Source Projects
+  System Design      Scalable Backend Systems
 
-🧠 Artificial Intelligence
+------------------------------------------------------------------------
 
-🤖 AI Agents
+::: {align="center"}
+# 💬 Developer Quote
 
-📚 Machine Learning
+`<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>`{=html}
+:::
 
-⚙️ FastAPI
+------------------------------------------------------------------------
 
-☁️ Cloud Deployment
+::: {align="center"}
+# 📫 Let's Connect
 
-📈 System Design
+Interested in collaborating on **AI, Backend, Full Stack, Python
+Automation and Open Source.**
 
----
+`<a href="mailto:pratapshouryasingh143@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Say%20Hello-pratapshouryasingh143@gmail.com-00C2FF?style=for-the-badge&logo=gmail"/>`{=html}
+`</a>`{=html}
+:::
 
-# 🤝 Let's Connect
+------------------------------------------------------------------------
 
-I'm always open to collaborating on
+::: {align="center"}
+### ⭐ Thanks for visiting my profile!
 
-- AI Projects
-- Backend Development
-- Full Stack Applications
-- Open Source
-- Python Automation
-
-<p align="center">
-
-<a href="mailto:pratapshouryasingh143@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Build%20Something-Together-00C2FF?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting!
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
+### *Code • Learn • Build • Repeat*
+:::
