@@ -51,6 +51,99 @@ Become an AI Engineer while building impactful software.
 ---
 
 <div align="center">
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">📄 PDF Toolkit</h3>
+
+<p align="center">
+Production-ready SaaS platform for PDF conversion and shipping-label automation.
+</p>
+
+<p align="center">
+
+React • Node • Python • Docker
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🏦 Banking API</h3>
+
+<p align="center">
+Secure banking backend featuring JWT authentication, role-based access and transaction management.
+</p>
+
+<p align="center">
+
+Node • Express • MongoDB • Docker
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🤖 Return Automation</h3>
+
+<p align="center">
+Python automation platform that streamlines seller return claim processing using Selenium.
+</p>
+
+<p align="center">
+
+Python • Selenium • Automation
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/pratapshouryasingh?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Projects-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 # ⚙️ Tech Stack
 
