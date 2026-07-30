@@ -114,7 +114,7 @@ Become an AI Engineer while building impactful software.
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=pratapshouryasingh&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratapshouryasingh&theme=tokyonight"/>
 
 <br><br>
 
