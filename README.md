@@ -126,16 +126,6 @@ Become an AI Engineer while building impactful software.
 
 <div align="center">
 
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=pratapshouryasingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 🐍 Contribution Snake
 
 <picture>
@@ -231,5 +221,3 @@ I'm always interested in collaborating on:
 ### *Code • Learn • Build • Repeat*
 
 </div>
-
- https://streak-stats.demolab.com/?user=pratapshouryasingh&theme=tokyonight&hide_border=true
