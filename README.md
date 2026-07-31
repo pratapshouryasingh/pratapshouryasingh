@@ -51,7 +51,6 @@ Become an AI Engineer while building impactful software.
 ---
 
 <div align="center">
----
 
 <div align="center">
 
