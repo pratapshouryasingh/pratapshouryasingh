@@ -36,7 +36,7 @@
 ```text
 🚀 Full Stack Developer building scalable backend systems & modern web applications
 
-🐍 Python Developer focused on automation, APIs & backend engineering
+🐍 Python Developer focused on automation, APIs, backend engineering & DSA
 
 🤖 Exploring AI Engineering, Machine Learning, LLMs & AI Agents
 
